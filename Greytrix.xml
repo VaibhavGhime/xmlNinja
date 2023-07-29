@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+    <lastBuildDate>Thu, 11 Sep 2014 19:39:59 GMT</lastBuildDate>
+   <publisherUrl>[https://www.greytrix.com/career]</publisherUrl>
+    <publisher>Greytrix</publisher>
+   <expectedJobCount><![CDATA[1]]></expectedJobCount>
+    <job>
+        <partnerJobId><![CDATA[77]]></partnerJobId>
+        <company><![CDATA[Greytrix]]></company>
+		<title><![CDATA[SEO Cum Digital Marketing Manager job description]]></title>
+        <description><![CDATA[Plan and execute all digital marketing, including SEO/SEM, marketing database, email, social media and display advertising campaigns
+Design, build and maintain our social media presence
+Create email blast campaigns to target key customers
+Collaborate with internal teams to create landing pages and optimize user experience]]></description>
+        <industry><![CDATA[Information Technology and Services]]></industry>
+        <applyUrl><![CDATA[https://www.greytrix.com/career]]></applyUrl> //career page url
+        <companyId><![CDATA[370289]]></companyId>
+        <location><![CDATA[in]]></location>
+        <city><![CDATA[Navi-Mumbai]]></city>
+        <state><![CDATA[MH]]></state>
+        <country><![CDATA[in]]></country>
+        <zipCode><![CDATA[400701]]></zipCode>
+    </job>
+    <job>
+    ...
+    </job>
+</source>
